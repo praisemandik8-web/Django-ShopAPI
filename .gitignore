@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+db.sqlite3
+
+# Environment variables
+.env
+
+# IDE files
+.idea/
